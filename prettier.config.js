@@ -9,7 +9,7 @@ export default {
     trailingComma: "none",
     overrides: [
         {
-            files: "*.js",
+            files: ["*.js", "*.ts"],
             options: {
                 tabWidth: 4
             }
