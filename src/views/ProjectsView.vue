@@ -5,6 +5,6 @@
 <template>
     <div>
         <h1>Projects Page</h1>
-        <a href="/">Go to Home</a>
+        <RouterLink to="/">Go to Home</RouterLink>
     </div>
 </template>
